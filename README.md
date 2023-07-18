@@ -4,6 +4,7 @@ This platform will help manage the activities of volunteers working with institu
 ## Functional requirements 
 - Successful signup/login with the various roles from the organization (volunteers working directly with children, centre coordinators, city coordinators, country coordinators and TBD)
 - Successful deletion of account for users
+- Successful export of user information
   
 - **Volunteers** working directly with children should be able to do the following: 
   - add the following information about themselves : name, availability, email, phone, number, type of help they can provide, facebook (optional), description                 (optional), their volunteering contract (optional)
